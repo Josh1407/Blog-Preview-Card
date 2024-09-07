@@ -38,8 +38,8 @@ This project was a Frontend Mentor challenge to build a reponsive landing page. 
 
 ### Links
 
-- Solution URL: 
-- Live Site URL: 
+- Solution URL: https://github.com/Josh1407/Blog-Preview-Card.git/
+- Live Site URL: https://josh1407.github.io/Blog-Preview-Card/ 
 
 ### Built with
 
