@@ -34,7 +34,7 @@ This project was a Frontend Mentor challenge to build a reponsive landing page. 
 
 ### Screenshot
 
-![](./Screenshot.png)
+![](./blog-ss.png)
 
 ### Links
 
